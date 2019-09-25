@@ -1,0 +1,4 @@
+After the last project, I was thinking about the direction and how to improve my project to be more readable. And I did the research about both coding and visualisation. I've found some pretty cool way to approach my intention. For the upcoming project, I may switch the p5js to d3js which is another JavaScript language which is more frequent used in data visualisation. I've spent two weeks to learn how to use this brand new tool. Then, for the data set, I'll go to the public data set to do the experiement. This is my first experiement by D3js.
+
+- Hovering over a bar in histogram will modify the pie chart and legend.
+- Hovering over pie slice will update the histogram.
